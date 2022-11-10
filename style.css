@@ -1,0 +1,19 @@
+
+.section2-img{
+    height: 26em;
+    
+    
+}
+.bg-image{
+    background-image: url("https://zerodha.com/static/images/landing.png");
+    height:100%;
+    background-repeat: round;
+}
+.section2-content{
+    height: 12em;
+}
+.section-4 {
+    width:39.999%;
+    height:39.999%;
+
+}
